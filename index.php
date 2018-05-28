@@ -34,6 +34,8 @@
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);*/
 
+// Awais
+
 $prevArray = '[{"_id":1,"someKey":"RINGING","meta":{"subKey1":1234,"subKey2":52}}]';
 $currArray = '[{"_id":1,"someKey":"HANGUP","meta":{"subKey1":1234}},{"_id":2,"someKey":"RINGING","meta":{"subKey1":5678,"subKey2":207,"subKey3":52}}]';
 
